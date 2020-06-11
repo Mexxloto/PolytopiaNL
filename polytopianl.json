@@ -436,7 +436,7 @@
   "gameinfo.updated": "geupdate: {0} geleden",
   "gameinfo.turn": "Beurt: {0}",
   "gameinfo.serverversion": "Server versie: {0}",
-  "gameinfo.gameover": "Het spel is klaar, open het om de score te zien"
+  "gameinfo.gameover": "Het spel is klaar, open het om de score te zien",
   "gameinfo.yourturn": "Het is je beurt om {0}",
   "gameinfo.opponentsturn": "Wachten op {0} om{1}",
   "gameinfo.start": "start spel",
