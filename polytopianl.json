@@ -18,7 +18,7 @@
   "tribepicker.categories.random.button": "WILLEKEURIGE STAM",
   "tribepicker.categories.random.selected.title": "Alakazam!",
   "tribepicker.categories.random.selected.text": "Willekeurige stam geselecteerd",
-  "tribepicker.restore": "Aankoop herstellen"
+  "tribepicker.restore": "Aankoop herstellen",
   "tribepicker.restoring": "Herstellen...",
   "tribepicker.reset": "Aankopen resetten",
   "tribepicker.tba": "TBA",
@@ -1002,7 +1002,7 @@
 
   "mplayerstats.reloading": "Herladen..",
   "mplayerstats.uptodate": "Alles is op de laatste versie",
-  "mplayerstats.loaderror": Kan de multiplayer server niet bereiken. Wees zeker dat je bent verbonden met het internet en probeer opnieuw.",
+  "mplayerstats.loaderror": "Kan de multiplayer server niet bereiken. Wees zeker dat je bent verbonden met het internet en probeer opnieuw.",
 
 
   "friendlist.reloading": "Herladen..",
