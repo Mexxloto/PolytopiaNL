@@ -824,7 +824,8 @@
   "onlineview.game.resign.title": "Verlaat",
   "onlineview.game.resign.info": "Weet je zeker dat je het spel voor altijd wil verlaten?",
   "onlineview.game.old.title": "Oud Bestand Versie",
-  "onlineview.game.old.info": "Dit spel was in een oude spel versie gemaakt. Het kan niet worden geladen :( Wij zouden het verwijderen en opnieuw een spel starten. Sorry voor de hindering”  "onlineview.game.player.left": "{0} heeft het spel verlaten {1} en is vervangen door een bot.",
+  "onlineview.game.old.info": "Dit spel was in een oude spel versie gemaakt. Het kan niet worden geladen :( Wij zouden het verwijderen en opnieuw een spel starten. Sorry voor de hindering”,
+  "onlineview.game.player.left": "{0} heeft het spel verlaten {1} en is vervangen door een bot.",
   "onlineview.game.player.kicked": "Je bent uit het spel gehaald, {0}",
   "onlineview.game.player.invited": "Je bent uitgenodigt voor een nieuw spel, {0}",
 
