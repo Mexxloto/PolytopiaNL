@@ -151,7 +151,7 @@
   "world.attract.sanctuary": "Je opvang heeft een wild dier gelokt!",
   "world.loading": "LADEN {0}%",
   "world.suggestion.title": "Hier is een tip!",
-  "world.suggestion.message": "Probeer dit eens: {0}",
+  "world.suggestion.message": "Probeer dit eens: \n {0}",
   "world.suggestion.disable": "(Deze tips kunnen in instellingen uitgeschakeld worden!)",
   "world.ranks": "1ste,2de,3de,4de,5de,6de,7de,8ste,9de,10de,11de,12de",
   "world.road.connected.title": "Nieuwe handerls route!",
