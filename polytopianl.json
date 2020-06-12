@@ -150,7 +150,7 @@
   "world.building.capture.warning.title": "{0} is onder aanval!",
   "world.attract.sanctuary": "Je opvang heeft een wild dier gelokt!",
   "world.loading": "LADEN {0}%",
-  "world.suggestion.title": "Hier is een tip!",NL
+  "world.suggestion.title": "Hier is een tip!",
 
   "world.suggestion.message": "Probeer dit eens: \n{0}",
   "world.suggestion.disable": "(Deze tips kunnen in instellingen uitgeschakeld worden!)",
@@ -234,7 +234,7 @@
   "building.names.monument1": "Monument der Vrede",
   "building.names.monument2": "Toren der Wijsheid",
   "building.names.monument3": "Grote Markt",
-  "building.names.monument4": "Kijzerlijke Tombe",
+  "building.names.monument4": "Mausoleum",
   "building.names.monument5": "Machtige Poort",
   "building.names.monument6": "Park der Rijkdom",
   "building.names.monument7": "Gods Oog",
