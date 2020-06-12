@@ -105,9 +105,9 @@
   "gamemode.glory.win": "De {0} puntenscore is gehaald!",
   "gamemode.might.caps": "MACHT",
   "gamemode.might": "Macht",
-  "gamemode.might.description": "Neem alle hoofdsteden over!",
-  "gamemode.might.win": "Alle hoofdsteden zijn overgenomen!",
-  "gamemode.death": "Je laatste stad is overgenomen, je bent verslagen.",
+  "gamemode.might.description": "Verover alle hoofdsteden!",
+  "gamemode.might.win": "Alle hoofdsteden zijn veroverd!",
+  "gamemode.death": "Je laatste stad is veroverd, je bent verslagen.",
 
 
   "world.intro.title": "Machtige Leider!",
@@ -238,7 +238,7 @@
   "building.names.monument6": "Park der Rijkdom",
   "building.names.monument7": "Gods Oog",
   "building.names.temple": "Tempel",
-  "building.names.burnforest": "Verbrandt Bos",
+  "building.names.burnforest": "Verbrand",
   "building.names.road": "Weg",
   "building.names.customshouse": "Import Huis",
   "building.names.gather": "Oogst Fruit",
@@ -324,7 +324,7 @@
 
 
   "player.abilities.destroy": "VERNIETIG",
-  "player.abilities.disband": "OPHEFFEN",
+  "player.abilities.disband": "opheffen",
   "player.abilities.literacy": "ALFEBETISME",
   "player.abilities.glide": "GLIJD",
 
@@ -696,7 +696,7 @@
   "highscore.notavailable": "High Score niet mogelijk.",
 
 
-  "multiplayer.passplay": "Locaal Spel",
+  "multiplayer.passplay": "Lokaal Spel",
   "multiplayer.passplay.info": "Daag je vrienden uit in een spel op een apperaat. Geef gewoon door als je klaar bent met je beurt.",
   "multiplayer.activegames": "Spellen",
   "multiplayer.finishedgames": "Afgemaakte Spellen",
@@ -784,7 +784,7 @@
   "onlineview.newgame": "Nieuw Spel",
   "onlineview.friends": "Vrienden",
   "onlineview.profile": "Profiel",
-  "onlineview.passplay": "Locaal Spel",
+  "onlineview.passplay": "Lokaal Spel",
   "onlineview.refresh": "Vernieuwen",
   "onlineview.profile.available": "Profiel is alleen beschikbaar als je verbonden bent met de server.",
   "onlineview.friendlist.available": "Vriendenlijst is alleen beschikbaar als je verbonden bent met de server.",
@@ -798,7 +798,7 @@
   "onlineview.nogames.start": "Speel wat online spellen met je vrienden. Klik ‘Nieuw spel’ om er een te starten.",
   "onlineview.nogames.first": "Eerst moet je andere mensen vinden die Polytopia spelen. Druk op ‘Vrienden’ om ze toe te voegen.",
   "onlineview.or": "of",
-  "onlineview.passplay.start": "Start een locaal spel door op 'Nieuw Spel' te drukken.",
+  "onlineview.passplay.start": "Start een lokaal spel door op 'Nieuw Spel' te drukken.",
   "onlineview.login.ios": "Log in op {0}",
   "onlineview.login.ios.info": "Door dit te gebruiken {0} krijg je een unie Speler ID doe je data bewaard in devices.",
   "onlineview.notifications": "Schakel notificaties in.",
