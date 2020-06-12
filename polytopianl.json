@@ -958,13 +958,13 @@
   "credits.programming": "Programmering & Opmaak",
   "credits.sound": "Geluid & Muziek",
   "credits.tribe": "Stam Design",
-  "credits.debuginfo": "Debug info",
+  "credits.debuginfo": "Debug informatie",
   "credits.build": "Spel versie",
   "credits.os": "OS",
   "credits.screendpi": "Scherm DPI",
-  "credits.screensize": "Scherm size",
-  "credits.privacy": "Privacy Policy",
-  "credits.terms": "Terms of Service",
+  "credits.screensize": "Schermgrootte",
+  "credits.privacy": "Privacybeleid",
+  "credits.terms": "Servicevoorwaarden",
 
 
   "date.day": "dag",
