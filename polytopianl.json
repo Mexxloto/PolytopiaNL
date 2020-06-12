@@ -350,12 +350,12 @@
   "actionbox.city.level": "lvl {0}",
   "actionbox.village": "Dorp",
   "actionbox.unit.frozen": "Bevroren {0}",
-  "actionbox.unit.kills": "{0}/{1} kills",
+  "actionbox.unit.kills": "{0}/{1} verslagen",
   "actionbox.unit.veteran": "Veteraan",
   "actionbox.unit.new": "Train een nieuwe {0} {1}",
   "actionbox.unit.ability": "Unit Ability",
   "actionbox.unit.train": "TRAIN",
-  "actionbox.unit.upgrade": "UPGRADE",
+  "actionbox.unit.upgrade": "PROMOVEER",
   "actionbox.unit.toomany": "(te veel)",
   "actionbox.unit.toomany.info": "Deze stad kan niet meer troepen. Upgrade the city to get more space for units.",
   "actionbox.building.doit": "DOE HET",
@@ -647,7 +647,7 @@
   "topbar.stars": "Sterren (+{0})",
 
 
-  "bottommenu.gamestats": "Spel Statestieken",
+  "bottommenu.gamestats": "Spel Statistieken",
   "bottommenu.menu": "Menu",
   "bottommenu.nextturn": "Volgende beurt",
   "bottommenu.techtree": "Onderzoek",
@@ -729,7 +729,7 @@
 
   "settings.title": "INSTELLINGEN",
   "settings.volume": "Audio volume {0}",
-  "settings.soundeffects": "Geluid Effecten",
+  "settings.soundeffects": "Geluidseffecten",
   "settings.ambience": "Achtergrond geluid",
   "settings.tribemusic": "Stam Muziek",
   "settings.suggestions": "Tips",
